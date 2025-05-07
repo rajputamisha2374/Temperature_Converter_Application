@@ -1,27 +1,39 @@
 Watch working project video here - https://drive.google.com/file/d/1b2vFJNE9IGUp2WKz6KagqwYo1JEDYkau/view?usp=sharing
 
-*🌡️ Temperature Converter App*
+
+
+🌡️*Temperature Converter App*
 This is a simple Temperature Converter application that allows users to convert temperatures between Celsius and Fahrenheit. It's a lightweight, user-friendly tool perfect for quick conversions.
 
-*🚀 Features*
+
+
+🚀*Features*
 Convert from Celsius to Fahrenheit
 
 Convert from Fahrenheit to Celsius
 
 Minimal and intuitive UI
 
-*🛠️ Technologies Used*
+
+
+🛠️*Technologies Used*
 Programming Language: Java
 Android Studio
 
-*🧮 Conversion Formula*
+
+
+🧮*Conversion Formula*
 Celsius to Fahrenheit:
 F = (C × 9/5) + 32
 
 Fahrenheit to Celsius:
 C = (F − 32) × 5/9
 
-*📸 Screenshots*
+
+
+📸*Screenshots*
+
+
 ![image](https://github.com/user-attachments/assets/ae63a48d-262b-40ce-a8fd-6db98ca98e0f)
 
 
